@@ -1,3 +1,3 @@
 # Self-learning
-- Interesting questions regarding probability and statistics
+- Interesting questions about probability and statistics
 - Leetcode
